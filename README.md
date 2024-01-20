@@ -39,37 +39,37 @@ Window Functions (SUM, AVG, RANK, ROW_NUMBER, LEAD, LAG): Calculated aggregated 
 
 
 ### Q: Athletes Won Gold Medal in more the 1 Sport?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/athletes_won_gold_in_more_than_one_sport.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/athletes_won_gold_in_more_than_one_sport.PNG" alt="Image">
 
 ### Q: Distribution of Regions, Athletes, and Medals by Year?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/distribution_of_regions_athletes_and_medals_by_year.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/distribution_of_regions_athletes_and_medals_by_year.PNG" alt="Image">
 
 ### Q: Gender wise Athletes by Region?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/gender_wise_athletes_by_country.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/gender_wise_athletes_by_country.PNG" alt="Image">
 
 ### Q: Medal Distribution by Country?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/medal_distribution_by_country.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/medal_distribution_by_country.PNG" alt="Image">
 
 ### Q: Region won Gold Medal in every Olympic?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/region_won_gold_medals_in_every_olympic.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/region_won_gold_medals_in_every_olympic.PNG" alt="Image">
 
 ### Q: Regions with Highest overall Medals?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_by_highest_overall_medals.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_by_highest_overall_medals.PNG" alt="Image">
 
 ### Q: Regions Medal Distribution by Season?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_medal_distribution_by_seasons.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_medal_distribution_by_seasons.PNG" alt="Image">
 
 ### Q: Regions Participated in every Olympic?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_participated_in_every_olympic.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_participated_in_every_olympic.PNG" alt="Image">
 
 ### Q: Top 3 Medal winning Sports each Year?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/top_3_sports_with_most_medals_each_year.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/top_3_sports_with_most_medals_each_year.PNG" alt="Image">
 
 ### Q: Cities with No> of Olympic Host?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/top_hosting_cities.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/top_hosting_cities.PNG" alt="Image">
 
 ### Q: Olympic Year along Highest Medal winning Region?
-<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/year_alongwith_regions_by_highest_medals_win.png" alt="Image">
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/year_alongwith_regions_by_highest_medals_win.PNG" alt="Image">
 
 
 ## Conclusion:
