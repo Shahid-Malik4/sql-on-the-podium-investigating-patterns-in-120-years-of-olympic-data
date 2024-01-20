@@ -1,4 +1,4 @@
-# SQL on the Podium: Investigating Patterns in 120 Years of Olympic Data
+## SQL on the Podium: Investigating Patterns in 120 Years of Olympic Data
 
 ### Skills & Tools:
 * Excel
@@ -38,32 +38,38 @@ Window Functions (SUM, AVG, RANK, ROW_NUMBER, LEAD, LAG): Calculated aggregated 
 * Regions Participated: Explored regions participating in each Olympic event.
 
 
-### Q: Best Selling Items?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/best-selling-items.png" alt="Image">
+### Q: Athletes Won Gold Medal in more the 1 Sport?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/athletes_won_gold_in_more_than_one_sport.png" alt="Image">
 
-### Q: Sales by Companies YTY?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/companies-sales-over-the-years.png" alt="Image">
+### Q: Distribution of Regions, Athletes, and Medals by Year?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/distribution_of_regions_athletes_and_medals_by_year.png" alt="Image">
 
-### Q: Revenue Diff YTY?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/revenue-diff-yty.png" alt="Image">
+### Q: Gender wise Athletes by Region?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/gender_wise_athletes_by_country.png" alt="Image">
 
-### Q: Sales and Profit by Company?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/sales-and-profit-by-company.png" alt="Image">
+### Q: Medal Distribution by Country?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/medal_distribution_by_country.png" alt="Image">
 
-### Q: Sales by Head?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/sales-by-head.png" alt="Image">
+### Q: Region won Gold Medal in every Olympic?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/region_won_gold_medals_in_every_olympic.png" alt="Image">
 
-### Q: Top 3 Customer's by each Head?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/top-3-customers-by-each-head.png" alt="Image">
+### Q: Regions with Highest overall Medals?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_by_highest_overall_medals.png" alt="Image">
 
-### Q: Sales by Customer's YTY?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/yty-sales-by-customers.png" alt="Image">
+### Q: Regions Medal Distribution by Season?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_medal_distribution_by_seasons.png" alt="Image">
 
-### Q: Best Performing Companies?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/top-companies.png" alt="Image">
+### Q: Regions Participated in every Olympic?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/regions_participated_in_every_olympic.png" alt="Image">
 
-### Q: Top Paying Customer's?
-<img src="https://github.com/lasanishop/harnessing-sql-for-sales-insights-and-improvement/blob/master/top-customers.png" alt="Image">
+### Q: Top 3 Medal winning Sports each Year?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/top_3_sports_with_most_medals_each_year.png" alt="Image">
+
+### Q: Cities with No> of Olympic Host?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/top_hosting_cities.png" alt="Image">
+
+### Q: Olympic Year along Highest Medal winning Region?
+<img src="https://github.com/Shahid-Malik4/sql-on-the-podium-investigating-patterns-in-120-years-of-olympic-data/blob/main/year_alongwith_regions_by_highest_medals_win.png" alt="Image">
 
 
 ## Conclusion:
