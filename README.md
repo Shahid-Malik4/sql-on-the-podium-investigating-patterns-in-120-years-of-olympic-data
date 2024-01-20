@@ -1,6 +1,4 @@
-# Harnessing SQL for Sales Insights and Improvement
-
-# SET Images Size
+# SQL on the Podium: Investigating Patterns in 120 Years of Olympic Data
 
 ### Skills & Tools:
 * Excel
@@ -8,33 +6,36 @@
 * MySQL
 
 # Introduction:
-The "Harnessing SQL for Sales Insights and Improvement" project involved comprehensive analysis of sales data
-extracted from SQL Server, imported into MySQL for data preparation, cleaning, normalization,
-and in-depth analysis using various SQL commands and functions. The project aimed to derive actionable insights,
-identify key sales metrics, and explore sales trends using advanced SQL functionalities.
+The "SQL on the Podium: Investigating Patterns in 120 Years of Olympic Data" project involved the extraction, cleaning, and manipulation of Olympic Games dataset sourced from Kaggle. Using Excel for initial cleaning and MySQL for data preparation, normalization, and analysis, the project aimed to derive insights into Olympic performance metrics, including regional medal distribution, athlete achievements, and trends over time.
 
 # Project Overview:
-Objective: To perform extensive sales analysis by leveraging MySQL's advanced SQL functionalities, including basic commands, GROUP BY, HAVING, Common Table Expressions (CTE), joins, subqueries, and window functions. The analysis focused on key features such as best-selling items, top-paying customers, sales trends by company, category, territory, time series analysis, and significant KPIs.
+Objective: The objective of the "SQL on the Podium: Investigating Patterns in 120 Years of Olympic Data" SQL project is to analyze and derive insights from historical Olympic Games data spanning 120 years. The project involves acquiring, cleaning, and manipulating data from Kaggle using Excel, followed by importing the processed data into a MySQL database. The focus of the analysis is to gain a comprehensive understanding of Olympic performance, including identifying regions with the most medals, analyzing medals by season and gender, identifying top medal-winning athletes, exploring regions' consistent participation across Olympic events, recognizing regions that consistently win gold medals, examining average age and medal distribution by gender and year, identifying the year with the most medals won, and determining the regions that have participated in every Olympic Games.
 
 
 # Project Phases:
 
-### 1. Data Extraction and Preparation in MySQL:
-Extracted raw sales data from SQL Server and imported it into MySQL for data cleaning, preparation, and normalization. Conducted data cleaning and normalization to improve performance and reduce redundancy.
+### 1. Data Extraction and Preparation:
+Acquire raw Olympic Games dataset from Kaggle and use Excel for initial cleaning. Conducted data cleaning in Excel, addressing inconsistencies, missing values, and formatting issues.
 
-### 2. SQL Analysis with Advanced Functionalities:
-Utilized a wide array of SQL functionalities for in-depth analysis: Basic SELECT, WHERE, FROM Commands: Extracted specific data subsets based on conditions. Advanced GROUP BY, HAVING: Conducted group-wise aggregations and filtering. Common Table Expressions (CTE): Created temporary result sets for complex queries. Joins and Subqueries: Combined data from multiple tables and performed nested queries. Window Functions (SUM, AVG, RANK, ROW_NUMBER, LEAD, LAG): Calculated aggregated values and performed ranking and analytical operations.
+### 2. Data Import and Normalization in MySQL:
+Imported cleaned data into MySQL for further data preparation, normalization, and analysis. Conducted data normalization to improve performance and reduce redundancy, ensuring efficient querying.
 
-### 3. Key Features and KPI Analysis:
-* Best Selling Item Analysis: Identified top-performing products based on sales volume or revenue.
-* Top Paying Customers: Recognized customers contributing the most to overall sales revenue.
-Sales Analysis by Company, Category, Territory: Conducted comprehensive sales breakdown across different segments.
-* Time Series Analysis: Examined sales trends over time, including sales by year and sales/orders trends.
-* Revenue and Profit Over Time: Analyzed revenue and profit trends to gauge business performance.
-* Key Performance Indicators (KPIs): Calculated and presented total sales, total profit, total products, total customers, total invoices, and total quantity sold.
+### 3. SQL Analysis with Advanced Functionalities:
+Utilized a range of SQL functionalities for in-depth analysis:
+Basic SELECT, WHERE, FROM Commands: Extracted specific data subsets based on conditions.
+Advanced GROUP BY, HAVING: Conducted group-wise aggregations and filtering. Common Table Expressions (CTE): Created temporary result sets for complex queries.
+Joins and Subqueries: Combined data from multiple tables and performed nested queries.
+Window Functions (SUM, AVG, RANK, ROW_NUMBER, LEAD, LAG): Calculated aggregated values and performed ranking and analytical operations.
 
-### 4. Insights and Outcomes:
-Derived insights into top-selling products and their performance across categories and territories. Identified high-value customers significantly impacting overall sales revenue. Analyzed sales trends and patterns by company, category, and territory, providing actionable insights for strategic decision-making. Gained a comprehensive understanding of sales performance metrics and KPIs to assess business health and make informed decisions.
+### 4. Key Features and Insights:
+* Regions with Most Medals: Identified regions with the highest medal counts across all Olympic Games.
+* Medals by Season: Visualized and analyzed medal distributions in Summer and Winter Olympics.
+* Medals by Gender: Explored gender-based medal distributions to identify patterns.
+* Top Medal-Winning Athletes: Recognized athletes with the most Olympic medals. Regions Participated in Every Olympic: Identified regions that consistently participated in every Olympic Games.
+* Regions Winning Gold in Every Olympic: Recognized regions with a consistent record of winning gold medals.
+* Average Age and Medal Distribution by Gender and Year: Analyzed average athlete age and medal distribution trends over time.
+* Year with Most Medals Won: Identified the Olympic year with the highest overall medal count.
+* Regions Participated: Explored regions participating in each Olympic event.
 
 
 ### Q: Best Selling Items?
@@ -66,4 +67,4 @@ Derived insights into top-selling products and their performance across categori
 
 
 ## Conclusion:
-The "Harnessing SQL for Sales Insights and Improvement" project leveraged MySQL's advanced SQL functionalities to perform a detailed analysis of sales data, deriving valuable insights and key performance indicators. By employing various SQL commands and functions, the project enabled stakeholders to gain a deeper understanding of sales trends, top performers, and crucial business metrics, empowering informed decision-making.
+The "SQL on the Podium: Investigating Patterns in 120 Years of Olympic Data" case study offers a thorough analysis of Olympic data, providing insights into host country influence, sport dynamics, global participation trends, and the legacies of exceptional athletes. This comprehensive examination contributes to a holistic understanding of the multifaceted evolution of the Olympic Games and serves as a valuable resource for discussions on the Games' historical, cultural, and athletic significance.
