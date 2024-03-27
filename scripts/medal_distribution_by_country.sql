@@ -11,7 +11,7 @@ ORDER BY total DESC
 LIMIT 10;
 
 /*
-|  Country  |  Gold  |  Bronze  |  Silver  |  Total  |
+|  country  |  gold  |  bronze  |  silver  |  total  |
 |-----------|--------|----------|----------|---------|
 |    USA    |  2524  |   1294   |   1574   |   5392  |
 |  Russia   |  1597  |   1176   |   1169   |   3942  |
