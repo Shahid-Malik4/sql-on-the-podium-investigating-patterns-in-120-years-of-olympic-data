@@ -2,7 +2,7 @@ WITH YearlySportMedalCounts AS (
     SELECT
         year AS year,
         sport AS sport,
-        COUNT(*) AS total_medals,
+        COUNT(*) AS total_medal,
         RANK() OVER (PARTITION BY year ORDER BY COUNT(*) DESC) AS rnk
     FROM events
     WHERE medal IN ('Gold', 'Silver', 'Bronze')
@@ -11,13 +11,13 @@ WITH YearlySportMedalCounts AS (
 SELECT 
     year, 
     sport, 
-    total_medals
+    total_medal
 FROM YearlySportMedalCounts
 WHERE rnk <= 3
 ORDER BY year;
 
 /*
-| Year |         Sport         | Medal_Count |
+| year |         sport         | total_medal |
 |------|-----------------------|-------------|
 | 1896 | Gymnastics            | 31          |
 | 1896 | Athletics             | 29          |
