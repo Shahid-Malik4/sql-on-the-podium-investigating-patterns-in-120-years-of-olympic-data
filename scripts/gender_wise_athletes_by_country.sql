@@ -10,7 +10,7 @@ ORDER BY total_athletes DESC
 LIMIT 10;
 
 /*
-| Country   | Total Athletes | Male  | Female |
+| country   | total_Athletes | male  | female |
 |-----------|----------------|-------|--------|
 | USA       | 18034          | 12600 | 5434   |
 | Germany   | 15681          | 10860 | 4821   |
