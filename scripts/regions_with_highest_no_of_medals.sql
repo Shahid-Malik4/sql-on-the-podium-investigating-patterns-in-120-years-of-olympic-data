@@ -7,3 +7,10 @@ WHERE e.medal IN ('Gold', 'Silver', 'Bronze')
 GROUP BY region
 ORDER BY total_medals DESC
 LIMIT 10;
+
+/*
+| Region |
+|--------|
+| USA    |
+
+*/
