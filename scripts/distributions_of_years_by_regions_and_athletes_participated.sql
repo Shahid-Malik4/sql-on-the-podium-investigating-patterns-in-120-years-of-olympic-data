@@ -9,7 +9,7 @@ ORDER BY regions_participated DESC
 LIMIT 5;
 
 /*
-| Year | Regions Participated | Athletes Participated | Medals |
+| year | regions_participated | athletes_participated | medals |
 |------|----------------------|-----------------------|--------|
 | 2016 | 207                  | 11176                 | 2022   |
 | 2012 | 205                  | 10512                 | 1940   |
