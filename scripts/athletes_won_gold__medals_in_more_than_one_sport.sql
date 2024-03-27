@@ -9,7 +9,7 @@ ORDER BY sports DESC
 LIMIT 5;
 
 /*
-| Athlete                             | Sports |
+| athlete                             | sports |
 |-------------------------------------|--------|
 | Aleksandr Vladimirovich Popov       | 2      |
 | Anfisa Anatolyevna Reztsova         | 2      |
