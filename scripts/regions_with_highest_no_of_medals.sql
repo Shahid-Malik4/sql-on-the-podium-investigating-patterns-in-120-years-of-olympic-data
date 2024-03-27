@@ -9,7 +9,7 @@ ORDER BY total_medals DESC
 LIMIT 10;
 
 /*
-|   Region   |  Total_Medals  |
+|   region   |  total_medals  |
 |------------|----------------|
 |    USA     |      5392      |
 |   Russia   |      3942      |
