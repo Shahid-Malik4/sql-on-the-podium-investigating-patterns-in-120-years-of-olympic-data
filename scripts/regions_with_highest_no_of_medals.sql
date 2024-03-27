@@ -9,8 +9,17 @@ ORDER BY total_medals DESC
 LIMIT 10;
 
 /*
-| Region |
-|--------|
-| USA    |
+|   Region   |  Total_Medals  |
+|------------|----------------|
+|    USA     |      5392      |
+|   Russia   |      3942      |
+|  Germany   |      3719      |
+|     UK     |      1963      |
+|   France   |      1681      |
+|   Italy    |      1598      |
+|   Sweden   |      1534      |
+| Australia  |      1344      |
+|   Canada   |      1319      |
+|  Hungary   |      1134      |
 
 */
