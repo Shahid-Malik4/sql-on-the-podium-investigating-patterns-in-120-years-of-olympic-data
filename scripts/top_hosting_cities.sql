@@ -1,13 +1,13 @@
 SELECT
     DISTINCT city AS city,
-    COUNT(DISTINCT year) AS total_hosts
+    COUNT(DISTINCT year) AS hosts
 FROM events
 GROUP BY city
 ORDER BY total_hosts DESC
 LIMIT 5;
 
 /*
-|    City     | Hosts |
+|    city     | hosts |
 |:-----------:|:-----:|
 |   London    |   3   |
 |   Athina    |   3   |
