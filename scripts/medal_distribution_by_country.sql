@@ -11,17 +11,17 @@ ORDER BY total DESC
 LIMIT 10;
 
 /*
-| Region    | Total Medals |
-|-----------|--------------|
-| USA       | 5392         |
-| Russia    | 3942         |
-| Germany   | 3719         |
-| UK        | 1963         |
-| France    | 1681         |
-| Italy     | 1598         |
-| Sweden    | 1534         |
-| Australia | 1344         |
-| Canada    | 1319         |
-| Hungary   | 1134         |
+|  Country  |  Gold  |  Bronze  |  Silver  |  Total  |
+|-----------|--------|----------|----------|---------|
+|    USA    |  2524  |   1294   |   1574   |   5392  |
+|  Russia   |  1597  |   1176   |   1169   |   3942  |
+|  Germany  |  1292  |   1252   |   1175   |   3719  |
+|    UK     |  656   |   624    |   683    |   1963  |
+|  France   |  491   |   627    |   563    |   1681  |
+|   Italy   |  567   |   503    |   528    |   1598  |
+|  Sweden   |  477   |   535    |   522    |   1534  |
+| Australia |  366   |   522    |   456    |   1344  |
+|  Canada   |  460   |   430    |   429    |   1319  |
+|  Hungary  |  432   |   371    |   331    |   1134  |
 
 */
