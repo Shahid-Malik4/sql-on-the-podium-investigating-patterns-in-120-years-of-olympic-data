@@ -6,7 +6,7 @@ GROUP BY region
 HAVING COUNT(DISTINCT e.year) = (SELECT COUNT(DISTINCT year) FROM events);
 
 /*
-| Region       |
+| region       |
 |--------------|
 | Australia    |
 | Greece       |
