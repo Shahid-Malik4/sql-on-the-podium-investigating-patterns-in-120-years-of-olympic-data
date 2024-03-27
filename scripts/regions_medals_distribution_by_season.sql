@@ -1,14 +1,14 @@
 SELECT
     r.region AS region,
-    SUM(CASE WHEN e.medal != 'NA' AND e.season = 'Summer' THEN 1 ELSE 0 END) as summer_total_medals,
-    SUM(CASE WHEN e.medal != 'NA' AND e.season = 'Winter' THEN 1 ELSE 0 END) as winter_total_medals,
+    SUM(CASE WHEN e.medal != 'NA' AND e.season = 'Summer' THEN 1 ELSE 0 END) as summer_medals,
+    SUM(CASE WHEN e.medal != 'NA' AND e.season = 'Winter' THEN 1 ELSE 0 END) as winter_medals,
     SUM(CASE WHEN e.medal != 'NA' THEN 1 ELSE 0 END) as total_medals
 FROM events e
 INNER JOIN regions r ON e.noc = r.noc 
 GROUP BY region;
 
 /*
-| Region                    | Summer_Medals | Winter_Medals | Total_Medals |
+| region                    | summer_medals | winter_medals | total_medals |
 |---------------------------|---------------|---------------|--------------|
 | China                     | 913           | 80            | 993          |
 | Denmark                   | 591           | 5             | 596          |
