@@ -43,7 +43,7 @@ Utilized a range of SQL functionalities for in-depth analysis:
 
 ### Queries and Results:
 
-1. **Top Performing Countries:**
+### 1. **Top Performing Countries:**
 ```sql
 SELECT
     r.region AS country,
@@ -73,7 +73,7 @@ Here's the breakdown of query results
 |  Hungary   |      1134      |
 
 
-2. **Cities That Hosted Olympics Most Times:**
+### 2. **Cities That Hosted Olympics Most Times:**
 ```sql
 SELECT
     DISTINCT city AS city,
@@ -96,7 +96,7 @@ Here's the breakdown of query results
 |  Innsbruck  |   2   |
 
 
-3. **Top Performing Athletes with Medals in Multiple Sports:**
+### 3. **Top Performing Athletes with Medals in Multiple Sports:**
 ```sql
 SELECT
     athlete_name AS athlete,
@@ -121,7 +121,7 @@ Here's the breakdown of query results
 | Charles Frederick "Karch" Kiraly    | 2      |
 
 
-4. **Regions Participated in All Olympic Games:**
+### 4. **Regions Participated in All Olympic Games:**
 ```sql
 SELECT
     r.region AS region
@@ -143,7 +143,7 @@ Here's the breakdown of query results
 | USA          |
 
 
-5. **Top Performing Regions in Each Year:**
+### 5. **Top Performing Regions in Each Year:**
 ```sql
 WITH RankedRegions AS (
     SELECT
@@ -206,7 +206,7 @@ Here's the brealdown of query results
 |  2014 |  Canada  |     86      |
 |  2016 |   USA    |    263      |
 
-6. **Medal Distribution by Sport in Each Year**
+### 6. **Medal Distribution by Sport in Each Year**
 ```sql
 WITH YearlySportMedalCounts AS (
     SELECT
@@ -339,6 +339,7 @@ Here's the breakdown of query results
 | 2016 | Swimming              | 191         |
 | 2016 | Athletics             | 191         |
 | 2016 | Rowing                | 144         |
+
 
 
 ## Lessons Learned:
