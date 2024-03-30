@@ -24,21 +24,21 @@ Imported cleaned data into MySQL for further data preparation, normalization, an
 
 ### 3. SQL Analysis with Advanced Functionalities:
 Utilized a range of SQL functionalities for in-depth analysis:
-**Basic SELECT, WHERE, FROM Commands:** Extracted specific data subsets based on conditions.
-**Advanced GROUP BY, HAVING:** Conducted group-wise aggregations and filtering.
-**Common Table Expressions (CTE):** Created temporary result sets for complex queries.
-**Joins and Subqueries:** Combined data from multiple tables and performed nested queries.
-**Window Functions (SUM, AVG, RANK, ROW_NUMBER, LEAD, LAG):** Calculated aggregated values and performed ranking and analytical operations.
+- **Basic SELECT, WHERE, FROM Commands:** Extracted specific data subsets based on conditions.
+- **Advanced GROUP BY, HAVING:** Conducted group-wise aggregations and filtering.
+- **Common Table Expressions (CTE):** Created temporary result sets for complex queries.
+- **Joins and Subqueries:** Combined data from multiple tables and performed nested queries.
+- **Window Functions (SUM, AVG, RANK, ROW_NUMBER, LEAD, LAG):** Calculated aggregated values and performed ranking and analytical operations.
 
 ### 4. Key Features and Insights:
-**Regions with Most Medals:** Identified regions with the highest medal counts across all Olympic Games.
-**Medals by Season:** Visualized and analyzed medal distributions in Summer and Winter Olympics.
-**Medals by Gender:** Explored gender-based medal distributions to identify patterns.
-**Top Medal-Winning Athletes:** Recognized athletes with the most Olympic medals. Regions Participated in Every Olympic: Identified regions that consistently participated in every Olympic Games.
-**Regions Winning Gold in Every Olympic:** Recognized regions with a consistent record of winning gold medals.
-**Average Age and Medal Distribution by Gender and Year:** Analyzed average athlete age and medal distribution trends over time.
-**Year with Most Medals Won:** Identified the Olympic year with the highest overall medal count.
-**Regions Participated:** Explored regions participating in each Olympic year.
+- **Regions with Most Medals:** Identified regions with the highest medal counts across all Olympic Games.
+- **Medals by Season:** Visualized and analyzed medal distributions in Summer and Winter Olympics.
+- **Medals by Gender:** Explored gender-based medal distributions to identify patterns.
+- **Top Medal-Winning Athletes:** Recognized athletes with the most Olympic medals. Regions Participated in Every Olympic: Identified regions that consistently participated in every Olympic Games.
+- **Regions Winning Gold in Every Olympic:** Recognized regions with a consistent record of winning gold medals.
+- **Average Age and Medal Distribution by Gender and Year:** Analyzed average athlete age and medal distribution trends over time.
+- **Year with Most Medals Won:** Identified the Olympic year with the highest overall medal count.
+- **Regions Participated:** Explored regions participating in each Olympic year.
 
 
 ### Queries and Results:
